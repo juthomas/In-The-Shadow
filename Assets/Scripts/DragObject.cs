@@ -33,8 +33,10 @@ public class DragObject : MonoBehaviour
         Camera camera = Camera.main;
         Vector3 right = Vector3.Cross(camera.transform.up, transform.position - camera.transform.position);
         Vector3 up = Vector3.Cross(transform.position - camera.transform.position, right);
-        myRigidbody.AddTorque(up * 420);
-        myRigidbody.AddTorque(right * 420);
+        
+        this.transform.Rotate(Random.Range(42.0f, 84.0f), Random.Range(42.0f, 84.0f), Random.Range(42.0f, 84.0f));
+        // myRigidbody.AddTorque(up * 420);
+        // myRigidbody.AddTorque(right * 420);
 
     }
 
