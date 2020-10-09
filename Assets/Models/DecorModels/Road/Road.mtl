@@ -1,0 +1,24 @@
+newmtl Road2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0745098 0.0745098 0.0745098 
+
+d 1
+
+Ns 0
+
+map_Ka Road2Tex.png
+map_Kd Road2Tex.png
+map_d Road2Tex.png
+
+newmtl Road1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.00929442 0.00848823 0.00908913 
+
+d 1
+
+Ns 0
+

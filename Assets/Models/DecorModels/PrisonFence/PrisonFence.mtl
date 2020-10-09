@@ -1,0 +1,48 @@
+newmtl Wire1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.00782688 0.00714798 0.00765401 
+
+d 1
+
+Ns 0
+
+newmtl FenceBody1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka FenceBody1Tex.png
+map_Kd FenceBody1Tex.png
+map_d FenceBody1Tex.png
+
+newmtl FenceChain1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 0.901961
+
+Ns 0
+
+map_Ka FenceChain1Tex.png
+map_Kd FenceChain1Tex.png
+map_d FenceChain1Tex.png
+
+newmtl Union1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.027838 0.0274636 0.028595 
+
+d 1
+
+Ns 0
+

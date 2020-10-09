@@ -1,0 +1,52 @@
+newmtl Trunk2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0509804 0.0509804 0.0509804 
+
+d 0.701961
+
+Ns 0
+
+map_Ka Trunk2Tex.png
+map_Kd Trunk2Tex.png
+map_d Trunk2Tex.png
+
+newmtl Trunk1Mtl
+Material Color
+Ka 0.151058 0.108711 0.0581872
+Kd 0.151058 0.108711 0.0581872
+Ks 0.007701 0.00554214 0.00296641 
+
+d 1
+
+Ns 0
+
+newmtl Trunk8Mtl
+Material Color
+Ka 0.2468 1 0.176774
+Kd 0.2468 1 0.176774
+Ks 0.012582 0.0509804 0.00901202 
+
+d 0.152941
+
+Ns 0
+
+map_Ka Trunk8Tex.png
+map_Kd Trunk8Tex.png
+map_d Trunk8Tex.png
+
+newmtl Leaves1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Leaves1Tex.png
+map_Kd Leaves1Tex.png
+map_d Leaves1Tex.png
+
